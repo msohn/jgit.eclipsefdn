@@ -25,7 +25,7 @@ orgs.newOrg('technology.jgit', 'eclipse-jgit') {
       default_branch: "master",
       description: "JGit, the Java implementation of git",
       has_discussions: true,
-      homepage: "https://www.eclipse.org/jgit/",
+      homepage: "https://projects.eclipse.org/projects/technology.jgit",
       workflows+: {
         default_workflow_permissions: "write",
       },
